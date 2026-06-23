@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCECC41B-8582-4FDD-8B18-F2A5ACC3D1C8}|Domain\\Domain.csproj|c:\\users\\user\\source\\repos\\hotel management api\\hotel mangement api\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCECC41B-8582-4FDD-8B18-F2A5ACC3D1C8}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCECC41B-8582-4FDD-8B18-F2A5ACC3D1C8}|Domain\\Domain.csproj|c:\\users\\user\\source\\repos\\hotel management api\\hotel mangement api\\domain\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCECC41B-8582-4FDD-8B18-F2A5ACC3D1C8}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCECC41B-8582-4FDD-8B18-F2A5ACC3D1C8}|Domain\\Domain.csproj|c:\\users\\user\\source\\repos\\hotel management api\\hotel mangement api\\domain\\entity\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCECC41B-8582-4FDD-8B18-F2A5ACC3D1C8}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA2AFA0-2ED9-4758-9F84-46DC080F3855}|Application.unittest\\Application.unittest.csproj|c:\\users\\user\\source\\repos\\hotel management api\\hotel mangement api\\application.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA2AFA0-2ED9-4758-9F84-46DC080F3855}|Application.unittest\\Application.unittest.csproj|solutionrelative:application.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\Domain\\Entity\\Author.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Author.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\Domain\\Entity\\Author.cs",
+              "RelativeToolTip": "Domain\\Entity\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T18:37:07.198Z",
+              "WhenOpened": "2026-06-21T19:16:02.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\Domain\\Entity\\Blog.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Blog.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\Domain\\Entity\\Blog.cs",
+              "RelativeToolTip": "Domain\\Entity\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:13:54.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\Application.unittest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Application.unittest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotel Management Api\\Hotel Mangement Api\\Application.unittest\\UnitTest1.cs",
+              "RelativeToolTip": "Application.unittest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T17:34:17.219Z",
               "EditorCaption": ""
             }
           ]
